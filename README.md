@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Gupta.</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="profile" width="400" src="">
+<img align="right" alt="profile" width="300" src="WhatsApp Image 2022-12-25 at 10.06.11 PM.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smash4141&label=Profile%20views&color=0e75b6&style=flat" alt="smash4141" /> </p>
 
