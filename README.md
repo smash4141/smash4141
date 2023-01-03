@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Frontend Frameworks**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [smash4141.github.io](smash4141.github.io)
 
