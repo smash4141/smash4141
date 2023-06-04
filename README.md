@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [smash4141.github.io](smash4141.github.io)
 
-- 💬 Ask me about **Html,Css,Js,Mysql,PHP**
+- 💬 Ask me about **Html,Css,Js,Mysql,PHP,python,java**
 
 - 📫 How to reach me **smashgupta4141@gmail.com**
 
